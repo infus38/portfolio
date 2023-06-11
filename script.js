@@ -9,26 +9,28 @@ const stringDictionary = {
         </p>
     `,
     btn1: `
-        <h1>Experience and Expertise: Crafting Code, Shaping the Future</h1>
+        <h1>Experience and Expertise</h1>
+        <h4>Crafting Code, Shaping the Future</h4>
         <p>
             Over the years, I've delved into various programming languages, including C, C++, Python, HTML, CSS, JS, and C#.
             These tools enable me to tackle diverse development challenges effectively.
         </p>
-        <h2>Problem-Solving and Collaboration: Innovating Together</h2>
+        <img src="./img/1.png"/><img src="./img/2.png"/><img src="./img/3.png"/>
+        <h2><u>Problem-Solving and Collaboration:</u> <i>Innovating Together</i></h2>
         <p>
             Problem-based learning has been the core of my education at CESI, a school where I've been immersed in various real-world projects.
             Continuously working on fresh problems has sharpened my analytical and problem-solving skills.
             Furthermore, collaborating with multidisciplinary teams both in the Android Open Source community and at Guerbet
             has enhanced my ability to work effectively in diverse environments.
         </p>
-        <h2>Contributions to the Developer Community: Sharing Knowledge, Empowering Others</h2>
+        <h2><u>Contributions to the Developer Community:</u> <i>Sharing Knowledge, Empowering Others</i></h2>
         <p>
             Contributing to the Android community has been an integral part of my journey.
             I have released my work for the Xperia E3 on platforms like XDA for end-users and GitHub for fellow developers.
             Additionally, I've actively supported and helped individuals in Telegram groups,
             providing assistance and guidance to resolve issues and bring newer Android versions to their devices.
         </p>
-        <h2>Notable Projects</h2>
+        <h2><u>Notable Projects</u></h2>
         <p>
             I take pride in my accomplishments, such as successfully bringing Android Nougat to the Xperia E3,
             a remarkable achievement that extended the lifespan of the device.
@@ -38,7 +40,8 @@ const stringDictionary = {
         </p>
     `,
     btn2: `
-        <h1>Hobbies and Passions: Seeking Thrills, Embracing Beauty</h1>
+        <h1>Hobbies and Passions</h1>
+        <h4>Seeking Thrills, Embracing Beauty</h4>
         <p>
             Beyond the realm of development, I find joy in pursuing my hobbies and passions. 
             Skiing is one of my favorite activities, as it allows me to embrace the thrill of gliding down snowy slopes and experiencing the beauty of nature in winter. 
@@ -47,7 +50,7 @@ const stringDictionary = {
             I'm captivated by the artistry and aesthetics that go into creating visually appealing experiences. 
             This passion for design influences my work, as I strive to deliver not only robust functionality but also elegant and intuitive user interfaces.
         </p>
-        <h2>Passion for Learning: Igniting the Drive for Achievement</h2>
+        <h2><u>Passion for Learning:</u> <i>Igniting the Drive for Achievement</i></h2>
         <p>
             My passion for learning drives me to continuously expand my knowledge and skills. Whether it's staying up to date with the latest industry trends, 
             investing time in personal projects, or exploring the exciting world of embedded devices and the Kubernetes platform (DevOps), 
@@ -56,14 +59,15 @@ const stringDictionary = {
       
     `,
     btn3: `
-        <h1>Work Ethic: Commitment, Perseverance, and Meticulousness</h1>
+        <h1>Work Ethic</h1>
+        <h4>Commitment, Perseverance, and Meticulousness</h4>
         <p>
             In my work, I tend to set high standards for myself, always striving for excellence.
             While this dedication may occasionally lead me to invest extra time and effort into projects,
             it drives me to deliver results that go above and beyond expectations.
             I'm a hard worker, known for my perseverance and meticulous attention to detail.
         <p>
-        <h2>Final Thoughts: Embarking on the Journey of Innovation</h2>
+        <h2><u>Final Thoughts:</u> <i>Embarking on the Journey of Innovation</i></h2>
         <p>
             If I were to share a valuable recommendation, it would be to start working on projects at an early stage.
             Engaging in practical experiences naturally leads to building a network and enhancing both technical and soft skills.
