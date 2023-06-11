@@ -95,6 +95,12 @@ const stringDictionary = {
     return stringDictionary[btnId];
   }
 
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth' // Use 'auto' for instant scrolling without animation
+    });
+  }
 
 function injectStringById(event) {
     const btnId = event.target.id;
@@ -108,6 +114,7 @@ function injectStringById(event) {
     } else {
       console.error("Element with ID", "myTextContent", "not found.");
     }
+    scrollToTop();
 }
 
 function rememberButtonState(buttonId) {
