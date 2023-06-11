@@ -46,7 +46,12 @@ const stringDictionary = {
             Beyond the realm of development, I find joy in pursuing my hobbies and passions. 
             Skiing is one of my favorite activities, as it allows me to embrace the thrill of gliding down snowy slopes and experiencing the beauty of nature in winter. 
             I'm also passionate about traveling, as it enables me to discover new landscapes and immerse myself in different cultures, expanding my horizons and fostering a broader perspective. 
-            In addition to my technical pursuits, I have a deep appreciation for design. 
+            <br><br>
+            <img style="width: 100%; border-radius: 5px; margin: auto; display: block;" src="https://lh3.googleusercontent.com/xyW1MGibDmc3SDy2esX-yvObwIvAH16ucRPF2-x7qJmOYRJRRU_LpOvZbis6yDwavBITLUbYRkbKi7aAvSS0wfOL9-TsElDxWlzyaUPevURvORQqxw=w960"/>
+            </p>
+            <a href="https://m3.material.io" target="_blank">source</a>
+            <br>
+            <p>In addition to my technical pursuits, I have a deep appreciation for design. 
             I'm captivated by the artistry and aesthetics that go into creating visually appealing experiences. 
             This passion for design influences my work, as I strive to deliver not only robust functionality but also elegant and intuitive user interfaces.
         </p>
@@ -61,6 +66,9 @@ const stringDictionary = {
     btn3: `
         <h1>Work Ethic</h1>
         <h4>Commitment, Perseverance, and Meticulousness</h4>
+        <img style="width: 100%; border-radius: 5px; margin: auto; display: block;" src="https://lh3.googleusercontent.com/1g6ObozQbNcIxHYGbo0krkhewX9Gt6UCW2xDIlef0zP8Br3UROSFVhwPC-157ehy9TBXJ77-vbrXdETqNyD28chYLtDJuX10zOOGw5d-Hp8gwkurGw=w2400-rj"/>
+        <a href="https://m3.material.io" target="_blank">source</a>
+        <br>
         <p>
             In my work, I tend to set high standards for myself, always striving for excellence.
             While this dedication may occasionally lead me to invest extra time and effort into projects,
