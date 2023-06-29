@@ -42,7 +42,9 @@ const stringDictionary = {
             by building a test platform on Kubernetes.
             These experiences have provided me with a broad perspective and a solid foundation in project management.
         </p>
-    `,
+        <h2><u>Footsteps of Progress</u></h2>
+        <h4>A timeline of personal achievements"</h4>
+        <img style="width: 100%; border-radius: 5px; margin: auto; display: block;" src="./img/4.png"/>    `,
     btn2: `
         <h1>Hobbies and Passions</h1>
         <h4>Seeking Thrills, Embracing Beauty</h4>
