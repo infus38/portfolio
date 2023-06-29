@@ -34,7 +34,7 @@ const stringDictionary = {
             Additionally, I've actively supported and helped individuals in Telegram groups,
             providing assistance and guidance to resolve issues and bring newer Android versions to their devices.
         </p>
-        <h2><u>Notable Projects</u></h2>
+        <h2><u>Notable Projects:</u> <i>Achievements and Impact</i></h2>
         <p>
             I take pride in my accomplishments, such as successfully bringing Android Nougat to the Xperia E3,
             a remarkable achievement that extended the lifespan of the device.
@@ -42,8 +42,7 @@ const stringDictionary = {
             by building a test platform on Kubernetes.
             These experiences have provided me with a broad perspective and a solid foundation in project management.
         </p>
-        <h2><u>Footsteps of Progress</u></h2>
-        <h4>A timeline of personal achievements"</h4>
+        <h2><u>Footsteps of Progress:</u> <i>A timeline of personal achievements</i></h2>
         <img style="width: 100%; border-radius: 5px; margin: auto; display: block;" src="./img/4.png"/>    `,
     btn2: `
         <h1>Hobbies and Passions</h1>
